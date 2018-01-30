@@ -1,2 +1,2 @@
 # Word-Unscrambler
-Create a siple word unscrambler in C#
+Create a simple word unscrambler in C#
